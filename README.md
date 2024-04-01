@@ -1,3 +1,4 @@
-Comisión DDS-K3152
-Validador de Inscripciones según Correlatividades - Diseño de Sistemas - Mercedes Funes Cifuentes
+* Comisión DDS-K3152 - Diseño de Sistemas
+* Validador de Inscripciones según Correlatividades
+* Mercedes Funes Cifuentes
 
